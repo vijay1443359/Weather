@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #23404B;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+  }
+  #title{
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 10px;
+
+  }
+  img{
+    height: 150px;
+    width: 90px;
+  }
+  .card{
+    height: 100%;
+    background-image: linear-gradient(to right, #dbc8a1, #a7ad8c, #7c907b, #5b726a, #435454);
+    color: white;
+  }
+  
